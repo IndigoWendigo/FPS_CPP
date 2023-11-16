@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPS_CPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{54E76C09-AB3C-4B47-ABAA-51685BBF8AFD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_CPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPS_CPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{19267BAD-0F05-4414-906B-C0B022D2CBDD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPS_CPP">
+      <UniqueIdentifier>{5F4776DA-28F9-4854-83ED-26648EDC2C8F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_CPP\FPS_CPP.Build.cs">
+      <Filter>Source\FPS_CPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPS_CPP\FPS_CPP.cpp">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_CPP\FPS_CPP.h">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_CPP\FPS_CPPCharacter.cpp">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_CPP\FPS_CPPCharacter.h">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_CPP\FPS_CPPGameMode.cpp">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_CPP\FPS_CPPGameMode.h">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_CPP\FPS_CPPHUD.cpp">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_CPP\FPS_CPPHUD.h">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_CPP\FPS_CPPProjectile.cpp">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_CPP\FPS_CPPProjectile.h">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_CPP\Sensor.cpp">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_CPP\Sensor.h">
+      <Filter>Source\FPS_CPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

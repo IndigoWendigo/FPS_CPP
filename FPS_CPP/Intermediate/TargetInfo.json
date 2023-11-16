@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPS_CPP",
+			"Path": "C:\\Users\\Jack\\OneDrive\\Documents\\Unreal Projects\\FPS_CPP\\Source\\FPS_CPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPS_CPPEditor",
+			"Path": "C:\\Users\\Jack\\OneDrive\\Documents\\Unreal Projects\\FPS_CPP\\Source\\FPS_CPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

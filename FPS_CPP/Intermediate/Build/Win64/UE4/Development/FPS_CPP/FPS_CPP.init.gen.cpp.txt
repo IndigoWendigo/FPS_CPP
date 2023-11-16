@@ -1,0 +1,3 @@
+C:\Users\Jack\OneDrive\Documents\Unreal Projects\FPS_CPP\Intermediate\Build\Win64\UE4\Development\FPS_CPP\Definitions.FPS_CPP.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
